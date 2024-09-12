@@ -17,5 +17,10 @@ Ejemplos de Python sobre listas, tuplas, conjuntos diccionarios
 - resultado
 - ![image](https://github.com/user-attachments/assets/8e3c6c3d-e9d9-4b52-977f-85ba1a7ac1b9)
 ## ejemplo de dictionaries loop
+- ![image](https://github.com/user-attachments/assets/8f450705-12df-4924-aa87-048c7fb10b13)
+- resultado
+- ![image](https://github.com/user-attachments/assets/7d68cc39-24b5-4e8c-922d-1847afff8b60)
+
+
 
 
